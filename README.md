@@ -1,2 +1,2 @@
 # Pointer_Demo
-This program demonstrates concept of pointer in "C" language.  Easy illustration and commented code.
+A conceptual demonstration of a pointer written in  "C" language.  Easy illustration and commented code.
